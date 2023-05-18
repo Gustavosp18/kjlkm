@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(199, 199, 18)
+}
+ {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+ }
+
+.card .user {
+    width: 100px;
+}
+
+.stars {
+    width: 20px;
+}
+html, body{
+    height: 100%;
+
+}
+   
+    

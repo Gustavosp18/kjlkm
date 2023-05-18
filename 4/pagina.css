@@ -1,0 +1,13 @@
+body{
+    background-color: brown;
+}
+
+.contato{
+    width: 120px;
+    height: 40px;
+    border: 0;
+    background-color: aqua;
+    color: aliceblue;
+    cursor: pointer;
+    transition: 2s;
+}
